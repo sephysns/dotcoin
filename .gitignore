@@ -1,0 +1,19 @@
+# Dependencies and builds
+node_modules/
+**/node_modules/
+.pnpm-store/
+.next/
+**/.next/
+out/
+dist/
+build/
+coverage/
+
+# Envs and logs
+.env
+.env.*
+*.log
+
+# OS/editor
+.DS_Store
+*.swp
